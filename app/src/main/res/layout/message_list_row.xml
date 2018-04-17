@@ -22,11 +22,13 @@
 
         <RadioButton
             android:id="@+id/rb_1"
+            android:text="sample 1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:checked="true" />
 
         <RadioButton
+            android:text="sample 2"
             android:id="@+id/rb_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
